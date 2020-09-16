@@ -5,3 +5,7 @@
 body{
     background-color: rgba(58, 139, 231, 0.438);
 }
+
+p{
+    font-family: 'Times New Roman', Times;
+}
