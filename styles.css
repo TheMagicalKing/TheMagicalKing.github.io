@@ -1,7 +1,8 @@
-*{
-    text-align: center;
+body{
     background-color: rgba(58, 139, 231, 0.438);
+    
 }
-h2{
-    font-style: italic;
+h1,h2,p{
+    text-align: center;
 }
+
